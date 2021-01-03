@@ -2,6 +2,7 @@
 import getpass
 import string
 import os
+import numpy
 
 # creatinga lists of users, their PINs and bank statements
 users = ['user', 'user2', 'user3']
