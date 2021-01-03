@@ -2,9 +2,10 @@
 import getpass
 import string
 import os
-import numpy
+import numpy as np
 
 # creatinga lists of users, their PINs and bank statements
+a = np.arr[1,2]
 users = ['user', 'user2', 'user3']
 pins = ['1234', '2222', '3333']
 amounts = [1000, 2000, 3000]
