@@ -1,1 +1,1 @@
-worker: python atm.py
+web: python atm.py
